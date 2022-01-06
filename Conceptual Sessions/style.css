@@ -1,0 +1,21 @@
+
+.div1{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+}
+.div2{
+    background-color: rgb(25, 224, 42);
+    width: 150px;
+    height: 150px;
+}
+.div3{
+    background-color: rgb(98, 31, 223);
+    width: 150px;
+    height: 150px;
+}
+.parant{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}

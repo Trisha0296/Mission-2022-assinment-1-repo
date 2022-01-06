@@ -1,0 +1,19 @@
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(204, 204, 240);
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(44, 44, 143);
+}
+.divee{
+    display: flex;
+    justify-content: space-around;
+}
